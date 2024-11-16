@@ -1,0 +1,2 @@
+print("\033[38;5;155m      Nhập Số \033[1;36m[1.1] \033[38;5;204mTOOL BUFF VIEW TIKTOK")
+print("\033[38;5;155m      Nhập Số \033[1;36m[1.2] \033[38;5;204mTOOL BUFF FOLLOW TIKTOK")
